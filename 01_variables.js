@@ -1,4 +1,4 @@
-// 1. Variable Declaration: - I am ishwar verma
+// 1. Variable Declaration: 
 
     // var
 
